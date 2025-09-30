@@ -1,1 +1,10 @@
-
+{
+    "status_images": {
+        "verified": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631828506017976/Verified.png?ex=68dd60a3&is=68dc0f23&hm=d232b83ef097e463eeb6bbff00b0555d060f3883da41073a290c22a6070ad6b8&",
+        "unverified": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631828845760564/Unverified.png?ex=68dd60a3&is=68dc0f23&hm=db62c47a98dac81ded51632c4a7ea6dbf3a85f2ecaeb6fc3ed94517067ea58e5&",
+        "staff": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631829252476990/Staff.png?ex=68dd60a3&is=68dc0f23&hm=eb867d111f2f23886c6cb007c70b506c2c70e0e9b3a34619a24320983c1ce765&",
+        "owner": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631829701263571/Owner.png?ex=68dd60a3&is=68dc0f23&hm=5e51451b5b2c56bb6adc8d98cd07a227aedab56780dbdbd25b6c1975a2823350&",
+        "banned": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631830057648350/Banned.png?ex=68dd60a3&is=68dc0f23&hm=9974c75c740390cbbf7d5182563a462c8fecad22b1a62e02ed3f1d9336361f79&",
+        "error": "https://cdn.discordapp.com/attachments/1422627671204040827/1422631830376677499/Error.png?ex=68dd60a3&is=68dc0f23&hm=b0da36ebdbde435f75aea9542073367960ceed01c0c4ff3bf15c85ae8dbe4bff&"
+    }
+}
